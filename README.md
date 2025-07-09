@@ -194,12 +194,6 @@ npm run build
 npx serve -s build
 ```
 
-## 📝 License
-
-This project is for educational and demonstration purposes.
-
-## 🆘 Troubleshooting
-
 ### Common Issues
 
 1. **Backend won't start**: Check if port 8080 is available
