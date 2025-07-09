@@ -1,5 +1,34 @@
 // docs.js (or inside your backend file)
 const docs = {
+  "/": {
+    title: "Welcome to Confluence",
+    content: `
+Welcome to Confluence!
+
+Your collaborative workspace for documentation and knowledge sharing.
+
+What is Confluence?
+Confluence is a powerful documentation and collaboration platform, enabling teams to create, organize, and share knowledge efficiently.
+
+Key Features:
+- Centralize your team's knowledge and documentation
+- Collaborate in real time with comments and editing
+- Organize content with spaces, pages, and labels
+- Integrate with tools like Jira, Trello, and Slack
+
+Getting Started:
+1. Sign up or log in to your Confluence workspace
+2. Create a new space for your team or project
+3. Add your first page and start documenting
+4. Invite team members to collaborate
+5. Explore templates and macros to enhance your docs
+
+Featured Resources:
+- Confluence Guides: https://www.atlassian.com/software/confluence/guides
+- Confluence Templates: https://www.atlassian.com/software/confluence/templates
+- Confluence Community: https://community.atlassian.com/t5/Confluence/ct-p/confluence
+`
+  },
     "/doc1": {
       title: "Setting up BlazeMeter",
       content: `
